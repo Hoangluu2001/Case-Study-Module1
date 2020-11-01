@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Đổi Hình Bắt Chữ</title>
+
+    <style>
+        body {
+            background-image: url("images/200w.webp");
+            text-align: center;
+        }
+
+        h1 {
+            font-size: 20px;
+        }
+
+        button {
+            border-radius: 10px;
+            font-size: 20px;
+        }
+
+        input {
+            font-size: 15px;
+        }
+
+        div {
+            font-size: 40px;
+            color: snow;
+        }
+
+    </style>
+    <script src="Casestudy.js"></script>
+
+</head>
+<body>
+<h1 style="color:black">Đuổi hình bắt chữ</h1>
+<img id="img" src="images/nhanuoc.png" height="350px " width="600px"><br><br><br>
+<input id="input" type="text"><br><br><br>
+<button type="submit" onclick="answer.check()">Check</button>
+<br><br>
+<div id="point" style="color: black">Điểm của bạn:</div>
+
+
+
+
+
+<audio id="amthanhdung">
+    <source src="audio/amthanhdung.mp3">
+</audio>
+
+
+<audio id="amthanhsai">
+    <source src="audio/amthanhsai.mp3">
+</audio>
+
+
+<audio id="yeah">
+    <source src="audio/yeah.mp3">
+</audio>
+
+
+
+<audio id="myAudio" controls autoplay style="display: none">
+    <source src="audio/nhacnen.mp3" type="audio/ogg">
+    <source src="audio/nhacnen.mp3" type="audio/mpeg">
+    Your browser does not support the audio element.
+</audio>
+
+
+
+</body>
+</html>
