@@ -23,7 +23,7 @@ let answers = [
     "Ma cà rồng",
     "Chim chích bông",
     "Yên bình",
-    "Kéo cưa ngựa xẻ",
+    "Kéo cưa lừa xẻ",
     "Nhà chọc trời",
 
 
