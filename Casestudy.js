@@ -15,16 +15,16 @@ let images = [
 ];
 
 let answers = [
-    "Nhà nước",
-    "Nhà hát",
-    "Yếu ớt",
-    "Tất yếu",
-    "Ô tô",
-    "Ma cà rồng",
-    "Chim chích bông",
-    "Yên bình",
-    "Kéo cưa lừa xẻ",
-    "Nhà chọc trời",
+    "nhà nước",
+    "nhà hát",
+    "yếu ớt",
+    "tất yếu",
+    "ô tô",
+    "ma cà rồng",
+    "chim chích bông",
+    "yên bình",
+    "kéo cưa lừa xẻ",
+    "nhà chọc trời",
 
 
 
