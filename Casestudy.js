@@ -6,12 +6,9 @@ let images = [
     "images/oto.jpg",
     "images/macarong.jpg",
     "images/chimchichbong.jpg",
-    "images/dauthu.png",
-    "images/hungthu.png",
     "images/yenbinh.jpg",
     "images/keocuanguaxe.jpg",
     "images/nhachoctroi.jpg",
-    "images/nemdagiautay.jpg",
 
 
 
@@ -25,12 +22,9 @@ let answers = [
     "Ô tô",
     "Ma cà rồng",
     "Chim chích bông",
-    "Đầu thú",
-    "Hứng thú",
     "Yên bình",
     "Kéo cưa ngựa xẻ",
     "Nhà chọc trời",
-    "Ném đá dấu tay",
 
 
 
